@@ -10,6 +10,6 @@ guidance of [Prof. Indranil Saha](https://www.cse.iitk.ac.in/users/isaha).
 ## Setup
 
 The project adheres to the C++17 Standard and can be compiled
-with a C++17-supporting compiler. The project can be built
+with a C++17-conformant compiler. The project can be built
 using CMake from the [CMakeLists file](CMakeLists.txt) present
 in the repository root.
